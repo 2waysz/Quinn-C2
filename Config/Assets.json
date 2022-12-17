@@ -1,0 +1,17 @@
+{
+    "Banner": "Assets/Banner",
+    "TOS": "Assets/TOS",
+    "Help": "Assets/Help",
+    "Login":"Assets/Login",
+    "Loner": "Assets/Loner",
+    "KKK": "Assets/KKK",
+    "Test":"Assets/Test",
+    
+    "AssetError":"\u001b[37mError Asset Was Not Found!",
+
+    "MainInput":"\r\n\u001b[38;2;255;0;220m┌\u001b[38;2;255;0;209m─\u001b[38;2;255;0;198m[\u001b[38;2;255;0;187mQ\u001b[38;2;255;0;176mu\u001b[38;2;255;0;165mi\u001b[38;2;255;0;154mn\u001b[38;2;255;0;143mn\u001b[38;2;255;0;132m/\u001b[38;2;255;0;121m<<User>>\u001b[38;2;255;0;33m]\r\n\u001b[38;2;255;0;220m└\u001b[38;2;255;1;178m─\u001b[38;2;255;2;136m─\u001b[38;2;255;3;94m─\u001b[38;2;255;4;52m➤\u001b[37m ",
+    "UsernameInput":"\u001b[9;52H",
+    "PasswordInput":"\u001b[11;52H\u001b[30m"
+
+
+}

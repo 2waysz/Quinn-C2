@@ -1,0 +1,14 @@
+{
+    "RAW":{
+        "API":"http://162.248.101.177/raw.php?key=free&host=<<IP>>&port=<<Port>>&time=<<Time>>&method=<<Method>>"   
+     },
+
+     "L4":{
+        "API":""
+     },
+
+     "L7":{
+        "API":""
+     }
+     
+}
