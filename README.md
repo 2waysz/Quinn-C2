@@ -1,7 +1,8 @@
 # Quinn-C2
 Quinn C2
 
-First Cnc I Made Starting the cnc on your Windows Computer Or OS of your choice is by installing Golang
+First Cnc I Made Starting 
+To Start the cnc on your Windows Computer Or OS of your choice is by installing Golang
 
 If u Dont know how to install golang ur Kinda retarded 
 ===> https://go.dev <===
