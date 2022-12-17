@@ -9,7 +9,7 @@ If u Dont know how to install golang ur Kinda retarded
 
 Start the server by doing 
 
->> go run .
+> go run .
 
 Configure the cnc 
 
