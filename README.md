@@ -15,5 +15,5 @@ Configure the cnc
 
 make a mysql Database if u Want But username and password is hardcoded Change that if u want
 
-Username: Henti
-Password: root
+> Username: Henti
+> Password: root
